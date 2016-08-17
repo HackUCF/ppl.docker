@@ -1,0 +1,3 @@
+*.iml
+/conf/client_secret.json
+/conf/local_settings.py
