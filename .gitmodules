@@ -1,4 +1,3 @@
 [submodule "ppl"]
 	path = ppl
 	url = git@github.com:HackUCF/ppl.git
-	branch = master
